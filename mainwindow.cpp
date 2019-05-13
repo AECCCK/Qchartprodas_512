@@ -37,7 +37,7 @@ MainWindow::MainWindow(QWidget *parent) :
  //   QChartView chartView4(chart4);
  //   chartView4.setRenderHint(QPainter::Antialiasing);
 
-
+//修改github for desktop尝试
   //  ui->graphicsView_2->setChart(chart2);
   //  ui->graphicsView_3->setChart(chart3);
   //  ui->graphicsView_4->setChart(chart4);
